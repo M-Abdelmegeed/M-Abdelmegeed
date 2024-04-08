@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps and NLP**
 
-- 👨‍💻 All of my projects are available at [https://abdelmegeed.live](https://abdelmegeed.tech)
+- 👨‍💻 All of my projects are available at [https://abdelmegeed.tech](https://abdelmegeed.tech)
 
 - 📫 How to reach me **m.maguid9@hotmail.com**
 
